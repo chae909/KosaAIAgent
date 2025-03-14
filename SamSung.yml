@@ -3,8 +3,14 @@ team: SamSung
 manager: 박진영
 
 members:
+<<<<<<< HEAD
 - 최태인
 - 오승현
 - 구자욱
+=======
+- 원태인
+- 오승환
+- 구자윤
+>>>>>>> from-remote
 - 김민찬
 - 채정윤
